@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ManoharReddy124378
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @ManoharReddy
+- 👀 I’m interested in learning new tricks in coding
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on project 
+- 📫 How to reach me 6304416489
 
 <!---
 ManoharReddy124378/ManoharReddy124378 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
