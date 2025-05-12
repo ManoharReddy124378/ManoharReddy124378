@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManoharReddy
 - 👀 I’m interested in learning new tricks in coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently working on javascript
 
 - 💞️ I’m looking to collaborate on project 
 - 📫 How to reach me 6304416489
